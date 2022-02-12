@@ -22,7 +22,7 @@
     - Reviewed code
     - Solved merge hells
     - Fixed bugs and refactored
-    - Documenting
+    - Documented
 
 Also acted in different roles during the project, like Scrum Master.
 All in all, had a wonderful time working with a wonderful team.
