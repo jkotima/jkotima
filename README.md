@@ -10,7 +10,7 @@
 - Has language support for Robot framework (like autocomplete and code highlighting)
 - Assignment for software production project course in Helsinki uni
 - Customer was a real world company [Eficode](https://www.eficode.com/)
-- Buzzwords: React, Typescript, GraphQL, Git, Jest, Cypress, PostgreSQL, Docker, [microservice architecture](https://github.com/Ohtu-project-Eficode/Amandus/blob/staging/documentation/imgs/architecture.png)
+- Buzzwords: React, Typescript, GraphQL, Git, Jest, Cypress, PostgreSQL, Docker, [microservice architecture](https://github.com/Ohtu-project-Eficode/Amandus/blob/staging/documentation/imgs/architecture.png), CI/CD
 
 
 - Some of the things I did:
